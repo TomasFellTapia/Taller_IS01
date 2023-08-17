@@ -1,0 +1,40 @@
+.cuadrado{
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.cuadrador{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    opacity: 1;
+    display: inline-block;
+   text-align: center;
+}
+
+.cuadradon{
+    background-color: black;
+    color: blueviolet;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    opacity: 0.1;
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.cuadrador2{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    opacity: 1;
+    display: inline-block;
+    text-align: center;
+    text-decoration: underline;
+   
+}
